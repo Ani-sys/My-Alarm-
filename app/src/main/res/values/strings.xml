@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Alarm App</string>
+    <string name="time_picker_title">Select your time </string>
+</resources>
